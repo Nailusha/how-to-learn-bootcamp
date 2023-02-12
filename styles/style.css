@@ -2,8 +2,8 @@ body, html{
   min-width: 1200px;
 }
 * {
-  padding: 0; 
-  margin: 0; 
+  padding: 0;
+  margin: 0;
 }
 .content {
   display: flex;
@@ -57,7 +57,7 @@ body, html{
 }
 .header__title {
   display: flex;
-  align-self: center; 
+  align-self: center;
   height: 96px;
   width: 730px;
   left: 64px;
@@ -249,7 +249,7 @@ body, html{
   flex-direction: column;
   text-align: left;
   width: 200px;
-  margin: 80px 0 90px ;
+  margin: 80px 0 90px;
   color: white;
 }
 .table_heading_theme_dark {
