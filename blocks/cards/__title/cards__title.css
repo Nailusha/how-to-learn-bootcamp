@@ -1,0 +1,8 @@
+.cards__title {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 16px 0;
+    line-height: 1.15;
+    font-weight: 24px;
+    font-style: normal;
+}

@@ -3,4 +3,6 @@
     font-size: 18px;
     font-weight: normal;
     color: white;
+    width: fit-content;
+    margin: 18px 0;
   }
