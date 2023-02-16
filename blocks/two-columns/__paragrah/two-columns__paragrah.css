@@ -1,0 +1,8 @@
+.two-columns__paragrah {
+    display: flex;
+    flex-flow: column;
+    line-height: 34px;
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: black;
+  }

@@ -1,0 +1,8 @@
+.two-columns__brief {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 175px;
+    font-size: 18px;
+    font-weight: normal;
+    color:  #2f80ed;
+  }
