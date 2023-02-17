@@ -1,8 +1,7 @@
-.cards__discreption {
-    display: flex;
-    flex-direction: column;
+.cards__description {
     margin: 0;
     line-height: 23px;
-    font-weight: 18px;
-    font-style: normal;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
 }
