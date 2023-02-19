@@ -3,6 +3,10 @@
     flex-flow: column;
     line-height: 34px;
     font-size: 24px;
-    margin-bottom: 30px;
+    font-weight: 400;
+    margin: 0 0 30px 0;
     color: black;
+  }
+  .two-columns__paragraph:last-of-type {
+    margin-bottom: 0;
   }
