@@ -5,4 +5,5 @@
     width: 877px;
     position: absolute;
     background-size: cover;
+    z-index: 0;
   }
