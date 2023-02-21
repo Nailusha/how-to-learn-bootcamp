@@ -5,6 +5,6 @@
   text-decoration: none;
   
 }
-  .footer__column-links:hover {
+  .footer__column-link:hover {
     opacity: 0.8;
 }

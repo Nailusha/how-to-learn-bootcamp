@@ -1,6 +1,5 @@
 .footer__column_content_info {
     display: flex;
     flex-flow: column;
-    align-items: flex-end;
     margin-top: 0;
   }
